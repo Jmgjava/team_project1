@@ -1,24 +1,21 @@
-![transparent](https://capsule-render.vercel.app/api?type=waving&color=96b3d9&fontColor=fff&text=🌈JMG_projects&height=250&fontSize=70&descAlignY=80&descAlign=70)
+![transparent](https://capsule-render.vercel.app/api?type=waving&color=B4E1F8&fontColor=fff&text=🛒이팀저팀&height=250&fontSize=70&descAlignY=80&descAlign=70)
 
 
 <br>
-
-
-# 1차 프로젝트
 
 <h2 align="center" style="color:#96b3d9"> 쇼핑몰& 관리자 모드 기반 챗봇 구현 </h2>
 
 <br>
 
 
-## 🛫프로젝트 소개
+## 📕프로젝트 소개
 
 - 관광상품을 판매하는 사이트
 - 판매자와 구매자를 나누어서 판매자는 판매가 가능하고 구매자는 구경 및 장바구니 담기가 가능
 
 | 작업파일                                                                                                                |
 |---------------------------------------------------------------------------------------------------------------------|
-| [쇼핑몰& 관리자 모드 기반 챗봇 구현](https://github.com/Jmgjava/JMG_projects/tree/master/project1ShoppingMall/team_project_1_dev) |
+| [쇼핑몰& 관리자 모드 기반 챗봇 구현](https://github.com/Jmgjava/team_project1/tree/master/shoppingMall_project) |
 
 <br>
 
@@ -57,6 +54,15 @@
 
 ## 📁ERD
 ![img_3.png](img/img_3.png)
+
+## 🙍‍♂️팀원
+|이름| 작업 |
+|--|----|
+|조민근| OAuth2, DB설계, kakaoMap api, CICD, 인기순위|
+|정**|reply, 프론트, Q&A 프론트|
+|왕**|Member(회원) CRUD|
+|박**|Board(상품)  CRUD, ( 장바구니 ) CRUD|
+|서**|shopList, ADMIN 창( Member, Board 창 삭제,수정)|
 
 ## ✍작업내용
 
@@ -124,4 +130,6 @@
   |---------------------------------------------------------------------------------------------------------------|
 | ![hot_details](https://github.com/Jmgjava/JMG_projects/assets/154856565/95334f28-182a-4953-b5b8-9bbe21a9625b) |
 
-**[목차로 돌아가기](#목차)**
+<br>
+
+![transparent](https://capsule-render.vercel.app/api?type=soft&color=6B4D9F&fontColor=fff&text=감사합니다.&animation=fadeIn&height=100&fontSize=40&descAlignY=80&descAlign=70)
