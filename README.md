@@ -134,8 +134,6 @@
   |---------------------------------------------------------------------------------------------------------------|
 | ![hot_details](https://github.com/Jmgjava/team_project1/assets/154856565/cb3a15a9-8860-4c39-bda9-cda2fd629696) |
 
-.
-
 <br>
 
 ![transparent](https://capsule-render.vercel.app/api?type=soft&color=6B4D9F&fontColor=fff&text=감사합니다.&animation=fadeIn&height=100&fontSize=40&descAlignY=80&descAlign=70)
