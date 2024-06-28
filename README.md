@@ -99,15 +99,15 @@
 
 | 로그인 실패 시                                                                                               |
 |--------------------------------------------------------------------------------------------------------|
-| ![fail](https://github.com/Jmgjava/JMG_projects/assets/154856565/b2f9230b-313c-4324-a18f-b8de547aa5f0) |
+| ![fail](https://github.com/Jmgjava/team_project1/assets/154856565/b1c891a0-fcaa-4371-9c52-eab275b34f23) |
 
 | 로그인 성공 시                                                                                                  |
 |-----------------------------------------------------------------------------------------------------------|
-| ![success](https://github.com/Jmgjava/JMG_projects/assets/154856565/0d1b2400-a0e0-4ffa-b1af-7f996b08b4e7) |
+| ![success](https://github.com/Jmgjava/team_project1/assets/154856565/bd1e4564-3143-4b6f-9d04-f2041fe9b4cf) |
 
 | google, naver, kakao 로그인                                                                                 |
 |----------------------------------------------------------------------------------------------------------|
-| ![oauth2](https://github.com/Jmgjava/JMG_projects/assets/154856565/3ac98663-843b-4957-bbc6-5d3d944125d9) |
+| ![oauth2](https://github.com/Jmgjava/team_project1/assets/154856565/dd58715b-2bd9-4190-9edc-0a7307d1bde5) |
 
 ### kakaoMap API
 
@@ -120,7 +120,7 @@
 
 | kakaoMap API 사용                                                                                            |
 |------------------------------------------------------------------------------------------------------------|
-| ![kakaoMap](https://github.com/Jmgjava/JMG_projects/assets/154856565/3d037446-3aa2-4ca9-b7fd-bba3aa3204d5) |
+| ![kakaoMap](https://github.com/Jmgjava/team_project1/assets/154856565/dae97fac-96d1-469b-bbac-ae565e18b0c1) |
 
 ### 인기순위
 
@@ -128,11 +128,13 @@
 
 | top3 인기순위                                                                                            |
 |------------------------------------------------------------------------------------------------------|
-| ![hot](https://github.com/Jmgjava/JMG_projects/assets/154856565/b8ea39ae-2461-4e99-9567-f502fa523884) |
+| ![hot](https://github.com/Jmgjava/team_project1/assets/154856565/f25420a6-eda8-4e19-aa06-dcc3b7427ec0) |
 
 | 클릭시 선택한 등수 페이지로 이동                                                                                       |
   |---------------------------------------------------------------------------------------------------------------|
-| ![hot_details](https://github.com/Jmgjava/JMG_projects/assets/154856565/95334f28-182a-4953-b5b8-9bbe21a9625b) |
+| ![hot_details](https://github.com/Jmgjava/team_project1/assets/154856565/cb3a15a9-8860-4c39-bda9-cda2fd629696) |
+
+.
 
 <br>
 
